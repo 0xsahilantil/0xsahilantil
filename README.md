@@ -14,11 +14,11 @@ Website https://www.sahilantil.com
 
 Youtube https://www.youtube.com/@sahilantil
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupriya-21&show_icons=true&locale=en&layout=compact" alt="anupriya-21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xsahilantil&show_icons=true&locale=en&layout=compact" alt="0xsahiantil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupriya-21&show_icons=true&locale=en" alt="anupriya-21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xsahilantil&show_icons=true&locale=en" alt="0xsahiantil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupriya-21&" alt="anupriya-21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xsahilantil&" alt="0xsahiantil" /></p>
 
 <!---
 0xsahilantil/0xsahilantil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
