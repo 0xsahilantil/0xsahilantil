@@ -6,8 +6,6 @@
 
 Twitter https://www.twitter.com/0xsahilantil
 
-Pinterest https://in.pinterest.com/0xsahilantil
-
 Linkedin https://www.linkedin.com/in/oxsahilantil
 
 Website https://www.sahilantil.com
